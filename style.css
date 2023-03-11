@@ -1,0 +1,19 @@
+body{
+    background-size: 100% ;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-family: 'Acme', sans-serif;
+    font-size: larger;
+
+}
+.play_button{
+
+    font-family: 'Acme', sans-serif;
+    font-size: larger;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
